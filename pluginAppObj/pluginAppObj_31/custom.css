@@ -1,0 +1,203 @@
+#pluginAppObj_31 {
+    max-width: 100%;
+}
+
+#pluginAppObj_31 .container {
+    padding: 20px; 
+    display: flex;
+    justify-content: center;
+}
+
+
+#pluginAppObj_31 .imLoginC.layout_column {
+    font-size:12pt;
+}
+
+#pluginAppObj_31 .imLoginC.layout_column form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#pluginAppObj_31 .imLoginC.layout_row form {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+#pluginAppObj_31 .imLoginC.layout_row .imLoginBlockInputWrapper {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+#pluginAppObj_31 .imLoginC.layout_row .imLoginBlockInput  {
+    margin: 3px;
+}
+
+#pluginAppObj_31 .imLoginC.layout_row .imLoginBlockPulsante   {
+    margin: 3px;
+}
+
+#pluginAppObj_31 .imLoginC.layout_row .imLoginBlockInput input::placeholder {
+    color: rgba(0, 0, 0, 1);;
+}
+
+#pluginAppObj_31 .imLoginC.layout_column .imLoginBlockPulsante {
+    text-align: center;
+    margin-top:10px;
+}
+
+#pluginAppObj_31 .imLoginC.layout_column .loginfontSize {
+    font-size:12pt;
+}
+
+#pluginAppObj_31 input.imLoginSubmit {
+    cursor: pointer;
+}
+
+#pluginAppObj_31 input.imLoginSubmit.btnCustomStyle {
+    font-family: Montserrat;
+    font-size: 12pt;
+    font-weight: normal;
+    font-style: normal;
+    color: rgba(255, 255, 255, 1);
+    background-color: rgba(11, 83, 148, 1);
+}
+
+#pluginAppObj_31 input.imLoginSubmit.btnOptionStyle {
+    padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+	padding-right: 5px;
+    border-style: solid;
+    border-top-color: transparent;
+    border-right-color: transparent;
+    border-bottom-color: transparent;
+    border-left-color: transparent;
+    border-width: 1px 1px 1px 1px;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+    border-bottom-left-radius: 0px;
+}
+
+#pluginAppObj_31 .imTxtLogout {
+   cursor: pointer;
+   overflow: hidden;
+}
+
+#pluginAppObj_31 .loginLabelCustomStyle{ 
+    font-family: Montserrat;
+    font-size: 12pt;
+    font-weight: normal;
+    font-style: normal;
+    color: rgba(0, 0, 0, 1);
+}
+
+#pluginAppObj_31 .loginLabelOptionStyle{ 
+    display: inline-block;
+    padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+#pluginAppObj_31 .imLoginBlock.imLoginBlockInput {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#pluginAppObj_31 .imLoginBlock.imLoginBlockInput input {
+    width: 150px;
+}
+
+#pluginAppObj_31 .imLoginBlock .loginInputCustomStyle{
+    box-shadow: none;
+    font-family: Montserrat;
+    font-size: 12pt;
+    font-weight: normal;
+    font-style: normal;
+    color: rgba(11, 83, 148, 1);
+    background-color: rgba(207, 226, 243, 1);
+    box-sizing: border-box;   
+}
+
+#pluginAppObj_31 .imLoginBlock .loginInputOptionStyle{
+    display: inline-block;
+    padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+	padding-right: 5px;
+    border-style: solid;   
+    border-top-color: rgba(11, 83, 148, 1);
+    border-right-color: rgba(11, 83, 148, 1);
+    border-bottom-color: rgba(11, 83, 148, 1);
+    border-left-color: rgba(11, 83, 148, 1);
+    border-width: 1px 1px 1px 1px;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+    border-bottom-left-radius: 0px;
+}
+
+#pluginAppObj_31 .logout_intro.customStyle {
+    color: rgba(0, 0, 0, 1);
+    font-family: Montserrat;
+    font-size: 12pt;
+    font-weight: normal;
+    font-style: normal;
+    line-height: 120%;
+}
+
+#pluginAppObj_31 .imLogoutC {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+#pluginAppObj_31 .imLogoutC .customStyle {
+    margin: 6px;
+}
+
+#pluginAppObj_31 .no_display {
+    display: none;
+}
+
+#pluginAppObj_31 .imLogoutAnchor.customStyle {
+    color: inherit;
+    text-decoration: inherit;
+    display: block;
+    font-family: Montserrat;
+    font-size: 12pt;
+    font-weight: normal;
+    font-style: normal;
+    line-height: 120%;
+    color: rgba(255, 255, 255, 1);
+    background-color: rgba(11, 83, 148, 1);
+    vertical-align: bottom;
+}
+
+#pluginAppObj_31 .imLogoutAnchor.customOption {
+    display: inline-block;
+    text-align: center;
+    max-width: 100%;
+    box-sizing: border-box;
+    overflow: hidden;
+    padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+	padding-right: 5px;
+    border-style: solid;
+    border-top-color: transparent;
+    border-right-color: transparent;
+    border-bottom-color: transparent;
+    border-left-color: transparent;
+    border-width: 1px 1px 1px 1px;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+    border-bottom-left-radius: 0px;
+}
